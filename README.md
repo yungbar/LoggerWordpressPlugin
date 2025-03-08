@@ -128,4 +128,4 @@ wp-content/plugins/admin-actions-logger/
 
 ## Автор
 
-Разработано [ItBardak]
+Разработано [Bardak]
